@@ -139,7 +139,7 @@ https://www.linkedin.com/
 
 
 ========== CONTACT JS ==========
-// serviceID - templateID - #form - publicKey
+ 
 
    // Show sent message
       Message sent successfully ✅
